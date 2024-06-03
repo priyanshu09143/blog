@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navBg{
+    background-color: hsl(186, 58%, 32%) !important;
+    margin: 0 !important;
+}
+.newWidth{
+    margin: auto !important;
+    max-width: 40% !important;
+}
+.emojyBtn{ 
+    cursor: pointer !important;
+}
